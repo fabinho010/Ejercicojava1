@@ -186,7 +186,7 @@ public class EJERCICIO1{
     
     public static String Concatenacion(String cad1, String cad2){
 
-        return (cad1 + " "+ cad2);
+        return (cad1 + cad2);
     }
 
     public static void solo1vocal(String cad3, char voc){
